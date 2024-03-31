@@ -1,0 +1,28 @@
+Python program to interchange first and last elements in a list
+Python program to swap two elements in a list
+Python | Ways to find length of list
+Maximum of two numbers in Python
+Minimum of two numbers in Python
+Python program to check whether the string is Palindrome
+Reverse words in a given String in Python
+ Print First 10 natural numbers using while loop
+ Print the following pattern
+Calculate the sum of all numbers from 1 to a given number
+ Write a program to print multiplication table of a given number
+ Display numbers from a list using loop
+Count the total number of digits in a number
+Print the following pattern
+Convert two lists into a dictionary
+ Merge two Python dictionaries into one
+Print the value of key ‘history’ from the below dict
+ Initialize dictionary with default values
+ Create a dictionary by extracting the keys from a given dictionary
+Create a function in Python
+Create a function with variable length of arguments
+ Return multiple values from a function
+ Create a function with a default argument
+Create an inner function to calculate the addition in the following way
+Create a recursive function
+Assign a different name to function and call it through the new name
+Generate a Python list of all the even numbers between 4 to 30
+Find the largest item from a given list
